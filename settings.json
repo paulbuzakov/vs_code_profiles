@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "CaskaydiaCove NF, Consolas, 'Courier New', monospace",
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "git.autofetch": true,
+    "cSpell.userWords": [
+        "Buch",
+        "defectura",
+        "mnemocode",
+        "Mnemocodes",
+        "sscc",
+        "testgrid"
+    ],
+    "cSpell.language": "en,ru",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.accessibilitySupport": "off",
+    "git.ignoreRebaseWarning": true,
+    "git.confirmSync": false,
+    "git.suggestSmartCommit": false
+}
